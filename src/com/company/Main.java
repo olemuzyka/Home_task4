@@ -60,7 +60,7 @@ public class Main {
             //TASK_3---------------------------------------------
 //        int[]arr = new int[40];
 //        for (int i = 0; i <arr.length ; i++) {
-//            arr[i]=(int)(Math.random()*200)+100;
+//            arr[i]=(int)(Math.random()*201)+100;
 //           System.out.print(arr[i]+ " ");
 //        }
 //        int max = arr[0];
